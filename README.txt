@@ -11,6 +11,6 @@ Arquivos:
 
 Como abrir:
 1. Acesse o Pages ou acesse o index.html
-3. Use os botões para acessar cada serviço.
+2. Use os botões para acessar cada serviço.
 
 Data da atividade: 21/08/2026
