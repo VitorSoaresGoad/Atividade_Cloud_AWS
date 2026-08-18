@@ -10,8 +10,7 @@ Arquivos:
 - style.css: estilos de todas as páginas
 
 Como abrir:
-1. Extraia a pasta.
-2. Abra o arquivo index.html no navegador.
+1. Acesse o Pages ou acesse o index.html
 3. Use os botões para acessar cada serviço.
 
 Data da atividade: 21/08/2026
